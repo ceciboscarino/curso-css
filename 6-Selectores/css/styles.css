@@ -70,6 +70,7 @@ li{
 [href$="azul"]{
     background-color: steelblue;
 }
+
 [lang|="en"]{
     background-color: magenta;
 }
